@@ -86,7 +86,6 @@ public class MainActivity extends Activity implements View.OnClickListener{
         textView.setOnClickListener(listener);
          */
 
-
         /*way 3 - implementing at class level
         textView.setOnClickListener(this);
         btnLogin.setOnClickListener(this);
