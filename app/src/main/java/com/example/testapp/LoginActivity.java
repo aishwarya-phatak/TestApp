@@ -19,7 +19,6 @@ public class LoginActivity extends Activity {
         setContentView(R.layout.login_activity);
 
         txtViewMessage = findViewById(R.id.txtViewMessage);
-
         edtUsername = findViewById(R.id.edtUsername);
         edtPassword = findViewById(R.id.edtPassword);
         btnLogin = findViewById(R.id.btnLogin);
