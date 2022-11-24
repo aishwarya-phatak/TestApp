@@ -11,7 +11,7 @@ import androidx.annotation.Nullable;
 public class LoginActivity extends Activity {
     TextView txtViewMessage;
     EditText edtUsername, edtPassword;
-    Button btnLogin;
+    Button btnLogin,btnLogin1;
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
